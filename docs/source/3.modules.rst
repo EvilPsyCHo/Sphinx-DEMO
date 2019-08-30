@@ -1,5 +1,5 @@
-demo project API
-============
+3.demo project API
+==================
 
 .. toctree::
    :maxdepth: 4

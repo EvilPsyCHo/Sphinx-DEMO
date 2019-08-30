@@ -10,9 +10,9 @@ Welcome to sphinx_demo's documentation!
    :maxdepth: 4
    :caption: Contents:
 
-   intro
-   jupyter_demo
-   modules
+   1.intro
+   2.jupyter_demo
+   3.modules
 
 
 
