@@ -43,9 +43,9 @@ pip install sphinx sphinx-autobuild sphinx_rtd_theme recommonmark
 ## 初始化Sphinx
 
 ```shell
-cd docs 					
-
+$ cd docs 					
 $ sphinx-quickstart 
+
 Welcome to the Sphinx 2.2.0 quickstart utility.
 
 Please enter values for the following settings (just press Enter to
