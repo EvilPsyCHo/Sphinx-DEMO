@@ -1,4 +1,4 @@
-demo_project
+demo project API
 ============
 
 .. toctree::
