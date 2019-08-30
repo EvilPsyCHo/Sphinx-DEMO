@@ -13,6 +13,8 @@ Welcome to sphinx_demo's documentation!
    1.intro
    2.jupyter_demo
    3.modules
+   4.代码规范
+   5.文档约定
 
 
 
