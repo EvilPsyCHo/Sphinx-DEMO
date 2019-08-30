@@ -12,7 +12,7 @@
 #
 import os
 import sys
-import IPython
+# import IPython
 
 package_path = os.path.abspath("../../")
 print(package_path)
@@ -40,7 +40,7 @@ extensions = [
     'sphinx.ext.viewcode',
     'sphinx.ext.todo',
     'nbsphinx',
-    'IPython.sphinxext.ipython_console_highlighting'
+    # 'IPython.sphinxext.ipython_console_highlighting'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
