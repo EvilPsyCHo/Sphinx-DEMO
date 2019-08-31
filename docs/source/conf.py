@@ -83,4 +83,16 @@ source_parsers = {
 }
 source_suffix = ['.rst', '.md']
 
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+        #'url_resolver': lambda url: github_doc_root + url,
+        'enable_math': False,
+        'enable_inline_math': False,
+    }, True)
+    app.add_transform(AutoStructify)
+
+# must add this line
+
 master_doc = 'index'
+
+# math support

@@ -15,7 +15,7 @@ Welcome to sphinx_demo's documentation!
    3.modules
    4.代码规范
    5.文档规范
-   6.Code Review方案细则
+   6.code review方案细则
 
 
 
