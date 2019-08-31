@@ -12,7 +12,7 @@
 #
 import os
 import sys
-# import IPython
+import IPython
 
 package_path = os.path.abspath("../../")
 print(package_path)
