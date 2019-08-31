@@ -11,7 +11,7 @@ Welcome to sphinx_demo's documentation!
    :caption: Contents:
 
    1.利用Sphinx生成项目文档
-   2.jupyter_demo
+   2.Jupyter Notebook案例
    3.modules
    4.代码规范
    5.文档规范
