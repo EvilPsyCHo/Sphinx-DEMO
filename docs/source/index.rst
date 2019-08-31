@@ -10,12 +10,12 @@ Welcome to sphinx_demo's documentation!
    :maxdepth: 4
    :caption: Contents:
 
-   1.intro
+   1.利用Sphinx生成项目文档
    2.jupyter_demo
    3.modules
    4.代码规范
-   5.文档约定
-   6.Code Review方案
+   5.文档规范
+   6.Code Review方案细则
 
 
 
