@@ -16,8 +16,7 @@ Welcome to sphinx_demo's documentation!
    4.代码规范
    5.文档规范
    6.code review方案细则
-
-
+   README
 
 Indices and tables
 ==================
